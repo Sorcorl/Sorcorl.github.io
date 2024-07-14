@@ -4,15 +4,7 @@
 
 当前版本1.2.4
 
-## 价格
-
-安卓（买断制）
-
-单端：20u
-
-## 演示图
-
-### Android
+## Android
 ![11.jpg](https://s2.loli.net/2024/07/14/OPY9G1TbwSVf38u.jpg)
 ![12.jpg](https://s2.loli.net/2024/07/14/ySQPIcuXEkx5vrn.jpg)
 ![13.jpg](https://s2.loli.net/2024/07/14/C5nicDEe89f3qtH.jpg)
