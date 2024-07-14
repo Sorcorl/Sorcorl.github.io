@@ -10,4 +10,4 @@
 
 ## 二、联系我
 
-![@Sorcorl](https://t.me/Sorcorl)
+Tg：[@Sorcorl](https://t.me/Sorcorl)
