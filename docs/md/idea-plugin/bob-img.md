@@ -22,7 +22,7 @@ Tv端：80u
 
 ## 演示图
 
-### Windows
+### Windows / Mac
 ![1.jpg](https://s2.loli.net/2024/07/14/Lgx7Ab3yFlTqerJ.jpg)
 ![2.jpg](https://s2.loli.net/2024/07/14/zDxvkVHObUs7jZl.jpg)
 

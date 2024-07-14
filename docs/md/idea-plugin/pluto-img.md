@@ -14,7 +14,7 @@ MAC/PC/安卓价格单端：30u
 
 ## 演示图
 
-### Windows
+### Windows / Mac
 ![1.jpg](https://s2.loli.net/2024/07/14/dEw6KPkA9MJ78mg.jpg)
 ![2.jpg](https://s2.loli.net/2024/07/14/6Cpsq9n8fT1YQo7.jpg)
 ![3.jpg](https://s2.loli.net/2024/07/14/VTKIfgCrl6jsOiu.jpg)
