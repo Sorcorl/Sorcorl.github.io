@@ -1,5 +1,5 @@
-- [:octocat: 首页](/README)
-- :memo: 客户端
+- [首页](/README)
+- 客户端
    - Tidalab 潮汐
    
        - [介绍](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
