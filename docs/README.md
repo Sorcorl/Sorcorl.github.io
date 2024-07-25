@@ -23,7 +23,7 @@
 ![1.jpg](https://www.hostpic.org/images/2407251738400120.png)
 
 可以得知是在我这购买了BOB客户端，但是发现开启代理后无法使用（此人机场节点类型为vmess和trojan）
-![1.jpg](https://www.hostpic.org/images/2407251741070117.png)
+![1.jpg](https://www.hostpic.org/images/2407251807240129.png)
 
 我询问过之前在我这打包过的客户，别人是没有任何问题的，那么这人的问题出在哪？（只能说懂得都懂）
 ![1.jpg](https://www.hostpic.org/images/2407251748500107.png)
