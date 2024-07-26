@@ -42,4 +42,4 @@ Tv端：80u
 
 该客户端需要单独对接客户端Api，购买后会提供相应教程。
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

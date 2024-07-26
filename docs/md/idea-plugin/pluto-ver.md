@@ -30,4 +30,4 @@
 - 版本更新跳转浏览器
 - 其他一些优化
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

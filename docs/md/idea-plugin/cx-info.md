@@ -32,4 +32,4 @@ MAC/PC/安卓价格单端：10u
 - 可配置客户端背景图片/配色自定义（需要提前说明）
 - 仅支持V2board And Xboard
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

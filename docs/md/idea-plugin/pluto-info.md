@@ -32,4 +32,4 @@ MAC/PC/安卓价格单端：30u
 
 已支持SSPANEL、V2Board、Xboard
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

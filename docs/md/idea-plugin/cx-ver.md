@@ -11,4 +11,4 @@ Android版本1.2.1
 - 新增自定义配图
 - 新增Crisp在线客服、Chatra在线客服
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

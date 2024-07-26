@@ -28,4 +28,4 @@
 
 支持V2board、Xboard
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

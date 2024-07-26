@@ -40,4 +40,4 @@ tv版本3.0.2
 - 优化手机暗黑模式显示
 - 优化顶部名称显示
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)

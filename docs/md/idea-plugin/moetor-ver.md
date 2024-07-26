@@ -40,4 +40,4 @@
 - 性能优化及一些逻辑细节
 
 
-购买咨询：[@Sorcorl](https://t.me/Sorcorl)
+购买咨询：[@Corosl](https://t.me/Corosl)
