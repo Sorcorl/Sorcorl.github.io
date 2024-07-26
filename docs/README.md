@@ -26,7 +26,8 @@
 ![1.jpg](https://www.hostpic.org/images/2407251807240129.png)
 
 之后我也询问过之前在我这打包过的客户，别人是没有任何问题的
-后来我问了下这人的问题出在他使用的是trojan混淆http，但是clash软件的内核版本和bob客户端的内核版本是不一样，bob的客户端内核不支持混淆http。
+
+这人的问题出在他使用的是trojan混淆http，但是bob客户端内核和clash软件内核是不一样，bob不支持混淆http。
 ![1.jpg](https://www.hostpic.org/images/2407251748500107.png)
 
 有问题好好沟通，喜欢满嘴喷粪的客户，不会提供任何技术支持。
