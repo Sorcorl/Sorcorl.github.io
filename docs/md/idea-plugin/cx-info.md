@@ -22,7 +22,7 @@ MAC/PC/安卓价格单端：10u
 - 支持OSS / 随时更换域名
 - 配色自定义，可自定义配图
 - 一键链接
-- 支持多种协议（Vmess/Vless/Shadowsocks/Trojan）
+- 支持多种协议（Vmess/Shadowsocks/Trojan）
 - 在线更新
 - 多国语言
 - 一键登录
