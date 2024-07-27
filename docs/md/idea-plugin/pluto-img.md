@@ -2,7 +2,7 @@
 
 > 超低的价格让每一位机场主都能享受到好用的客户端！😄
 
-当前版本1.3.0
+当前版本1.3.1
 
 ## Windows / Mac
 ![1.jpg](https://s2.loli.net/2024/07/14/dEw6KPkA9MJ78mg.jpg)
