@@ -4,7 +4,7 @@
 
 当前版本1.3.1
 
-## Android v1.3.1 (2024-07-27)
+## Android v1.3.0 (2024-07-22)
 - 支持hy、hy2、reality节点
 - 适配Xboard面板
 
