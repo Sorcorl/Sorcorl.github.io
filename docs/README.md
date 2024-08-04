@@ -57,13 +57,11 @@
 
 ![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
 
-还有这个叫期待的，什么货色大家也清楚，之前做CDN跑路圈了一大笔钱，TG用户名@zhagehao
+经典
 
-建议远离此人
+![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
 
-![11.png](https://s2.loli.net/2024/08/04/KcRS1jCkywvLTxQ.png)
-
-![12.png](https://s2.loli.net/2024/08/04/VOEmxw9bBC8GhTa.png)
+![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
 
 ## 联系我
 
