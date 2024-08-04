@@ -47,7 +47,7 @@
 ## 辟谣（二）
 有人说v2Matrix公测群里挂我说我是骗子
 
-接下来的聊天记录我放出来，大家看完也知道是怎么回事了（我实在没想明白这种人逻辑哪里来的）
+接下来的聊天记录我放出来，大家看完也知道是怎么回事了（没想明白这种人逻辑哪里来的）
 
 ![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
 
@@ -57,11 +57,6 @@
 
 ![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
 
-经典
-
-![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
-
-![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
 
 ## 联系我
 
