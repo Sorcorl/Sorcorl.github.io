@@ -22,7 +22,7 @@
 
 （或者修改相关代码，客户端调用的规则文件改成默认的。）
 
-### 辟谣
+### 辟谣（一）
 有客户截图发给我了说此人在群里挂我，我这里做一下说明
 ![1.jpg](https://www.hostpic.org/images/2407251738400120.png)
 
@@ -35,6 +35,27 @@
 ![1.jpg](https://www.hostpic.org/images/2407251748500107.png)
 
 有问题好好沟通，喜欢满嘴喷粪的客户，不会提供任何技术支持。
+
+### 辟谣（二）
+有客户v2Matrix公测群里挂我说我是骗子
+
+接下来的聊天记录我放出来，大家看完也知道是怎么回事了（我实在没想明白这种人逻辑哪里来的）
+
+![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
+
+![1.png](https://s2.loli.net/2024/08/04/4PtAZuMrNeiUD8C.png)
+
+![2.png](https://s2.loli.net/2024/08/04/sBtnpAgNRqmIPkC.png)
+
+![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
+
+还有这个叫期待的，什么货色大家也清楚，之前做CDN跑路圈了一大笔钱，TG用户名@zhagehao
+
+建议远离此人
+
+![11.png](https://s2.loli.net/2024/08/04/KcRS1jCkywvLTxQ.png)
+
+![12.png](https://s2.loli.net/2024/08/04/VOEmxw9bBC8GhTa.png)
 
 #### 无法上网请检查
 1. 机场主自己先检查节点问题
