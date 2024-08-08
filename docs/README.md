@@ -24,6 +24,8 @@
 
 统一做一下回复（如还有人质疑，可以找我拿具体的聊天记录截图）
 
+点击图片可放大观看。
+
 <details>
 
 <summary>用户名：iidb iidb</summary>
@@ -63,6 +65,7 @@
 <details>
 
 <summary>用户名：龙爷</summary>
+
 - 在v2Matrix公测群里挂我说我是骗子
 
 - 接下来的聊天记录我放出来。你被别人骗，所以看到我卖客户端，我也就成骗子了？
@@ -83,6 +86,7 @@
 <details>
 
 <summary>用户名：钢蛋 转发私家车</summary>
+
 - ![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png ":size=100%")
 
 - ![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png ":size=100%")
