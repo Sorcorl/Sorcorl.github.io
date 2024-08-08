@@ -20,50 +20,82 @@
 
 > 恳请部分同行，请别故意出来恶心我。价格干不过我，也只能出阴招恶心恶心我了。
 
-## 辟谣（一）
-有客户截图发给我了说此人在群里挂我，做一下说明
-![1.jpg](https://www.hostpic.org/images/2407251738400120.png)
+## 辟谣
 
-确实是在我这购买了BOB客户端，但是发现开启代理后无法使用（此人机场节点类型trojan）
-![1.jpg](https://www.hostpic.org/images/2407251807240129.png)
+统一做一下说明（如还有人质疑，可以找我拿具体的聊天记录截图）
 
-之后我也询问过之前在我这打包过的客户，别人是没有任何问题的。
+<summary>用户名：iidb iidb</summary>
 
-这人使用的是trojan混淆http，但是bob客户端内核和clash软件内核是不一样，bob不支持trojan混淆http。
+- 有客户截图发给我了，说此人在群里挂我
+- ![1.jpg](https://www.hostpic.org/images/2407251738400120.png ":size=60%")
 
-## 辟谣（二）
-在v2Matrix公测群里挂我说我是骗子
+- 确实是在我这购买了BOB 3端，但是发现开启代理后无法使用（机场节点类型trojan）
+- ![1.jpg](https://www.hostpic.org/images/2407251807240129.png ":size=60%")
 
-接下来的聊天记录我放出来，估摸着你被别人骗，所以我也就是骗子咯？
+- 这人使用的是trojan混淆http，bob不支持trojan混淆http，以下是他的节点参数
+- ![1.jpg](https://www.hostpic.org/images/2408081556190103.jpg ":size=60%")
 
-![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
+- 当时我调试客户端的时候，他给我的节点参数图。
 
-![1.png](https://s2.loli.net/2024/08/04/4PtAZuMrNeiUD8C.png)
+- 后来我让他大概等了我四五天，我找了几个老客户进行测试，确实是混淆http的原因
 
-![2.png](https://s2.loli.net/2024/08/04/sBtnpAgNRqmIPkC.png)
+- 我询问他机场有无技术人员，他满嘴开始喷粪，最后被我拉黑
 
-![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
+- 他还说从我这买的主题存在BUG，无法使用。我现已将主题免费开发，可以找我免费领取
 
-## 辟谣（三）
-![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
+- 看看究竟主题有没有问题。
 
-![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
+- 这是此人部分发言，前言不对后语。一下说等了我一个月，一下说等了我两周。合着你说啥就是啥呗？
 
-上图这人找我买萌通客户端，我那段时间忙消息回复慢，这人直接删记录然后接下来几个月追着我骂，我一开始私聊问他什么时候买的直接拉黑我
+- ![1.jpg](https://www.hostpic.org/images/2408081603590102.png ":size=60%")
+- ![1.jpg](https://www.hostpic.org/images/2408081603590088.png ":size=60%")
 
-还是个做转发的，转发倒也还算稳定。追着我咬几个月，且我主动找他他直接拉黑我，再综合以上言论，不是同行故意恶心我我是不信的
+- 所谓我诈骗7人，简直无中生有，甚至不敢艾特出那几人出来和我对线。
+
+- 从他挂我到现在我从没改过一次名。倘如我真是骗子，我为什么不改个名字重新开始？
 
 ---
 
-至于下面这人（当中间商，赚二倍不止的差价。把客户站点弄崩，怪我不给他售后。最后就更厉害了，卷了客户一万多跑路）
-在群里骂我的截图
-![1.png](https://www.hostpic.org/images/2408061604570100.png)
+<summary>用户名：龙爷</summary>
+- 在v2Matrix公测群里挂我说我是骗子
 
-客户找我的聊天记录如下
-![44.png](https://s2.loli.net/2024/08/06/eWYV6UuxrcRATvP.png)
-![45.png](https://s2.loli.net/2024/08/06/NA7ZL1em6x9Vuqa.png)
-![46.png](https://s2.loli.net/2024/08/06/tV4iuNEdLGR7aWy.png)
-![47.png](https://s2.loli.net/2024/08/06/5NlbxtV9LfkAPBX.png)
+- 接下来的聊天记录我放出来。你被别人骗，所以看到我卖客户端，我也就成骗子了？
+
+- ![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
+
+- ![1.png](https://s2.loli.net/2024/08/04/4PtAZuMrNeiUD8C.png)
+
+- ![2.png](https://s2.loli.net/2024/08/04/sBtnpAgNRqmIPkC.png)
+
+- ![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
+
+混蛋逻辑。
+
+---
+
+<summary>用户名：钢蛋 转发私家车</summary>
+- ![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
+
+- ![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
+
+- 这人找我买萌通客户端，我那段时间忙消息回复慢，这人直接删记录然后接下来几个月追着我骂，我最初私聊问他什么时候买的直接拉黑我
+
+- 追着我咬几个月，且我主动找他他直接拉黑我。再综合以上言论，不是同行故意恶心我，我是不信的
+
+- 2024.08.05 此人 头像 用户名 名称皆已修改，那么为什么要改的这么彻底？？若有人被骗，可以找我要这人最新的tg
+
+---
+
+<summary>用户名：朝阳</summary>
+- 至于下面这人（当中间商，赚二倍不止的差价。把客户站点弄崩，然后说我没售后。最后就更厉害了，卷了客户一万多跑路）
+- 在群里骂我的聊天截图
+- ![1.png](https://www.hostpic.org/images/2408061604570100.png)
+
+- 他客户找我的聊天记录如下
+- ![44.png](https://s2.loli.net/2024/08/06/eWYV6UuxrcRATvP.png)
+- ![45.png](https://s2.loli.net/2024/08/06/NA7ZL1em6x9Vuqa.png)
+- ![46.png](https://s2.loli.net/2024/08/06/tV4iuNEdLGR7aWy.png)
+- ![47.png](https://s2.loli.net/2024/08/06/5NlbxtV9LfkAPBX.png)
 
 ## 联系我
 
