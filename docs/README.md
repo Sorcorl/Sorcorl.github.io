@@ -30,35 +30,35 @@
 
 <summary>用户名：iidb iidb</summary>
 
-- 有客户截图发给我了，说此人在群里挂我
-- ![1.jpg](https://www.hostpic.org/images/2407251738400120.png)
+有客户截图发给我了，说此人在群里挂我
+![1.jpg](https://www.hostpic.org/images/2407251738400120.png)
 
-- 确实是在我这购买了BOB 3端，但是发现开启代理后无法使用（机场节点类型trojan）
-- ![1.jpg](https://www.hostpic.org/images/2407251807240129.png)
+确实是在我这购买了BOB 3端，但是发现开启代理后无法使用（机场节点类型trojan）
+![1.jpg](https://www.hostpic.org/images/2407251807240129.png)
 
-- 这人使用的是trojan混淆http，bob不支持trojan混淆http，以下是他的节点参数
-- ![1.jpg](https://www.hostpic.org/images/2408081556190103.jpg)
+这人使用的是trojan混淆http，bob不支持trojan混淆http，以下是他的节点参数
+![1.jpg](https://www.hostpic.org/images/2408081556190103.jpg)
 
-- 当时我调试客户端的时候，他给我的节点参数图。
+当时我调试客户端的时候，他给我的节点参数图。
 
-- 后来我让他大概等了我四五天，我找了几个老客户进行测试，确实是混淆http的原因
+后来我让他大概等了我四五天，我找了几个老客户进行测试，确实是混淆http的原因
 
-- 我询问他机场有无技术人员，他满嘴开始喷粪，最后被我拉黑
+我询问他机场有无技术人员，他满嘴开始喷粪，最后被我拉黑
 
-- 还说从我这买的主题存在BUG，无法使用。我现已将主题免费开发，可以找我免费领取
+还说从我这买的主题存在BUG，无法使用。我现已将主题免费开发，可以找我免费领取
 
-- 看看究竟主题有没有问题。
+看看究竟主题有没有问题。
 
-- 这是此人部分发言，前言不对后语。一下说等了我一个月，一下说等了我两周。合着你说啥就是啥呗？
+这是此人部分发言，前言不对后语。一下说等了我一个月，一下说等了我两周。合着你说啥就是啥呗？
 
-- ![1.jpg](https://www.hostpic.org/images/2408081623230089.png)
-- ![1.jpg](https://www.hostpic.org/images/2408081603590088.png)
+![1.jpg](https://www.hostpic.org/images/2408081623230089.png)
+![1.jpg](https://www.hostpic.org/images/2408081603590088.png)
 
-- 所谓我诈骗7人，简直无中生有，甚至不敢艾特出那几人出来和我对线。
+所谓我诈骗7人，简直无中生有，甚至不敢艾特出那几人出来和我对线。
 
-- ![1.jpg](https://www.hostpic.org/images/2408081603590102.png)
+![1.jpg](https://www.hostpic.org/images/2408081603590102.png)
 
-- 从他挂我到现在我从没改过一次名。倘如我真是骗子，我为什么不改个名字重新开始？
+从他挂我到现在我从没改过一次名。倘如我真是骗子，我为什么不改个名字重新开始？
 
 </details>
 
@@ -68,17 +68,17 @@
 
 <summary>用户名：龙爷</summary>
 
-- 在v2Matrix公测群里挂我说我是骗子
+在v2Matrix公测群里挂我说我是骗子
 
-- 接下来的聊天记录我放出来。你被别人骗，所以看到我卖客户端，我也就成骗子了？
+接下来的聊天记录我放出来。你被别人骗，所以看到我卖客户端，我也就成骗子了？
 
-- ![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
+![0.png](https://s2.loli.net/2024/08/04/WJr9D8Kvk4EXaB5.png)
 
-- ![1.png](https://s2.loli.net/2024/08/04/4PtAZuMrNeiUD8C.png)
+![1.png](https://s2.loli.net/2024/08/04/4PtAZuMrNeiUD8C.png)
 
-- ![2.png](https://s2.loli.net/2024/08/04/sBtnpAgNRqmIPkC.png)
+![2.png](https://s2.loli.net/2024/08/04/sBtnpAgNRqmIPkC.png)
 
-- ![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
+![3.png](https://s2.loli.net/2024/08/04/KeHt6cwsz5fVZd1.png)
 
 混蛋逻辑。
 </details>
@@ -89,15 +89,15 @@
 
 <summary>用户名：钢蛋 转发私家车</summary>
 
-- ![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
+![2.png](https://s2.loli.net/2024/08/04/gBNhEwI7DrOnpQR.png)
 
-- ![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
+![1.png](https://s2.loli.net/2024/08/04/UXr2ui5TaZPLSJR.png)
 
-- 这人找我买萌通客户端，我那段时间忙消息回复慢，这人直接删记录然后接下来几个月追着我骂，我最初私聊问他什么时候买的直接拉黑我
+这人找我买萌通客户端，我那段时间忙消息回复慢，这人直接删记录然后接下来几个月追着我骂，我最初私聊问他什么时候买的直接拉黑我
 
-- 追着我咬几个月，且我主动找他他直接拉黑我。再综合以上言论，不是同行故意恶心我，我是不信的
+追着我咬几个月，且我主动找他他直接拉黑我。再综合以上言论，不是同行故意恶心我，我是不信的
 
-- 2024.08.05 此人 头像 用户名 名称皆已修改，那么为什么要改的这么彻底？
+2024.08.05 此人 头像 用户名 名称皆已修改，那么为什么要改的这么彻底？
 
 </details>
 
@@ -107,19 +107,19 @@
 
 <summary>用户名：朝阳</summary>
 
-- 至于下面这人（中间商，赚二倍不止的差价。把客户站点弄崩，然后说我没售后。最后就更厉害了，卷了客户一万多跑路）
+至于下面这人（中间商，赚二倍不止的差价。把客户站点弄崩，然后说我没售后。最后就更厉害了，卷了客户一万多跑路）
 
-- 在群里骂我的聊天截图
-- ![1.png](https://www.hostpic.org/images/2408061604570100.png)
+在群里骂我的聊天截图
+![1.png](https://www.hostpic.org/images/2408061604570100.png)
 
-- 他客户找我的聊天记录如下
-- ![44.png](https://s2.loli.net/2024/08/06/eWYV6UuxrcRATvP.png)
+他客户找我的聊天记录如下
+![44.png](https://s2.loli.net/2024/08/06/eWYV6UuxrcRATvP.png)
 
-- ![45.png](https://s2.loli.net/2024/08/06/NA7ZL1em6x9Vuqa.png)
+![45.png](https://s2.loli.net/2024/08/06/NA7ZL1em6x9Vuqa.png)
 
-- ![46.png](https://s2.loli.net/2024/08/06/tV4iuNEdLGR7aWy.png)
+![46.png](https://s2.loli.net/2024/08/06/tV4iuNEdLGR7aWy.png)
 
-- ![47.png](https://s2.loli.net/2024/08/06/5NlbxtV9LfkAPBX.png)
+![47.png](https://s2.loli.net/2024/08/06/5NlbxtV9LfkAPBX.png)
 
 </details>
 
